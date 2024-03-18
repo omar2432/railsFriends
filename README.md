@@ -1,5 +1,7 @@
 # README
 
+This is my railsFriends app with changes done by Omar Sami 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
